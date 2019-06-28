@@ -1,0 +1,4 @@
+﻿  Source.cpp
+  You may be using a weak algorithm that has been retained for backwards compatibility. Please '#define CRYPTOPP_ENABLE_NAMESPACE_WEAK 1' before including this .h file and prepend the class name with 'Weak::' to remove this warning.
+d:\apriorit\ipc\ipc_home work\ipc_homw work\ipc_homw work\source.cpp(143): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+  IPC_homw work.vcxproj -> D:\Apriorit\IPC\IPC_home work\IPC_homw work\x64\Debug\IPC_homw work.exe
